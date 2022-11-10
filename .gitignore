@@ -1,4 +1,4 @@
-
+*
 .sync/*
 .z_sync_configs.data
 **/.Archive
@@ -9,4 +9,6 @@ configs/sorts.json
 .md_configs.data
 .markeditor/*
 !README.md
-*.md
+!*.html
+!assets/
+!_image/
