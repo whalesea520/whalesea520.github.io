@@ -43,4 +43,4 @@ sdfsfsfs
 
 ```
 
-![](/whalesea520/whalesea520.github.io/blob/master/_image/2022-11-11-03-00-25.gif?raw=true/_image/2022-11-11-03-00-25.gif)
+![](https://raw.githubusercontent.com/whalesea520/whalesea520.github.io/master/_image/2022-11-11-03-00-25.gif)
