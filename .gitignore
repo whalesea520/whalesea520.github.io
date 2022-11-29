@@ -14,5 +14,8 @@ __mw_themes/*
 test/*
 zh_cn/*
 *.mw_theme
+<<<<<<< HEAD
 
 .sync/*
+=======
+>>>>>>> 30510707ac6aab18d0396a7f340bf9b6e895f8bf
