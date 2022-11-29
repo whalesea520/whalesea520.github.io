@@ -10,4 +10,7 @@ configs/sorts.json
 *.md
 !README.md
 
-.sync/*
+__mw_themes/*
+test/*
+zh_cn/*
+*.mw_theme
